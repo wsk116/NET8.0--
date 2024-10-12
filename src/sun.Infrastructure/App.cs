@@ -24,6 +24,7 @@ namespace sun.Infrastructure
         /// <param name="serviceProvider"></param>
         public static void Init(IServiceProvider serviceProvider)
         {
+
             ServiceProvider = serviceProvider;
         }
 
